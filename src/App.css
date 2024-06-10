@@ -33,6 +33,7 @@
    width:200px;
    text-align: left;
    background: whitesmoke;
+   color:rgba(0, 0, 0, 0.953);
 }
 .movie-card img {
   width:100%
